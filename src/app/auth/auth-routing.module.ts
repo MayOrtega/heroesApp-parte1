@@ -14,7 +14,7 @@ const routes: Routes = [
 
     },
     {
-      path:'registro',
+      path:'register',
       component: RegisterComponent
     },
     {
